@@ -1,3 +1,3 @@
-![samjaabo's 42 stats](https://badge.mediaplus.ma/darkblue/samjaabo)
+![fc](https://badge.mediaplus.ma/darkblue/samjaabo)
 ===
-[trophy](https://github-profile-trophy.vercel.app/?username=samjaabo)
+![g](https://github-profile-trophy.vercel.app/?username=samjaabo)
